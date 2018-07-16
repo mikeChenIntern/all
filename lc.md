@@ -6,7 +6,7 @@
 
 <details>
   <summary>lc</summary>
-    <p>
+  
     1. hash api: 注意进出的重复<br>         
     2. linkedlist  
     3. array  
@@ -14,12 +14,8 @@
     5. tree  
     6. recursion  
     7. more...按公司，按记忆  
-    </p>
+      
 </details>
-
-
-
-
 
 
 <details>
