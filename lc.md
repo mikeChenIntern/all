@@ -7,7 +7,7 @@
 <details>
   <summary>lc</summary>
     <p>
-    1. hash api: 注意进出的重复    
+    1. hash api: 注意进出的重复<br>         
     2. linkedlist  
     3. array  
     4. map  
