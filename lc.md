@@ -7,13 +7,13 @@
 <details>
   <summary>lc</summary>
     <p>
-    1. hash api: 注意进出的重复
-    2. linkedlist
-    3. array
-    4. map
-    5. tree
-    6. recursion
-    7. more...按公司，按记忆
+    1. hash api: 注意进出的重复  
+    2. linkedlist  
+    3. array  
+    4. map  
+    5. tree  
+    6. recursion  
+    7. more...按公司，按记忆  
     </p>
 </details>
 
