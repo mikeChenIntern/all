@@ -31,6 +31,28 @@
       
 </details>
 
+<details>
+  <summary>招人公司</summary>
+
+    1. 几率大：
+      1.1 狂招人
+        gg cloud
+        oracle cloud
+        uber rider? freight?
+      1.2 面试简单
+        ibm
+        amazon?
+        yahoo?
+    2. 大公司
+    3. 小公司
+    4. 价值
+      GG
+      大公司
+      Hot startup
+      小公司
+
+ </details>
+
 
 <details>
 <summary> __ddd__</summary>
@@ -40,9 +62,5 @@
   3. <mark> mi  </mark>  
   4. dsadas
   5. fsdfsd
-
-
-
-
   </p>
 </details>
