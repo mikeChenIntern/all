@@ -35,21 +35,21 @@
   <summary>招人公司</summary>
 
     1. 几率大：
-      1.1 狂招人
-        gg cloud
-        oracle cloud
-        uber rider? freight?
-      1.2 面试简单
-        ibm
-        amazon?
-        yahoo?
+        1.1 狂招人
+            gg cloud
+            oracle cloud
+            uber rider? freight?
+        1.2 面试简单
+            ibm
+            amazon?
+            yahoo?
     2. 大公司
     3. 小公司
     4. 价值
-      GG
-      大公司
-      Hot startup
-      小公司
+          GG
+          大公司
+          Hot startup
+          小公司
 
  </details>
 
@@ -59,14 +59,14 @@
   <summary>生活</summary>
 
     1. 腿
-      - 加热（高于体温，毯子、保暖不够）
-        - 公司
-          - 晒太阳
-        - 家里
-          - 电热毯
+        - 加热（高于体温，毯子、保暖不够）
+            - 公司
+                - 晒太阳
+            - 家里
+                - 电热毯
     2. 吃
-      - 要吃好的，认真对待这件事
-        - 快手菜
+        - 要吃好的，认真对待这件事
+            - 快手菜
     3. 睡好
 
  </details>
