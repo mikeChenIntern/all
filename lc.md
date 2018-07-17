@@ -6,7 +6,7 @@
 
 <details>
   <summary>lc</summary>
-  
+
        hash api: 注意进出的重复
           api
           练习3
@@ -27,8 +27,8 @@
           练习3
        more...按公司，按记忆  
        材料 班 书
-       
-      
+
+
 </details>
 
 <details>
@@ -52,18 +52,25 @@
       小公司
 
  </details>
- 
- 
- 
+
+
+
 <details>
   <summary>生活</summary>
+
     1. 腿
+      - 加热（高于体温，毯子、保暖不够）
+        - 公司
+          - 晒太阳
+        - 家里
+          - 电热毯
     2. 吃好
-      - 
+      - 快手菜
     3. 睡好
 
  </details>
- 
+
+
  问题：
  计划还是记录（大表）
 
