@@ -52,6 +52,20 @@
       小公司
 
  </details>
+ 
+ 
+ 
+<details>
+  <summary>生活</summary>
+    1. 腿
+    2. 吃好
+      - 
+    3. 睡好
+
+ </details>
+ 
+ 问题：
+ 计划还是记录（大表）
 
 
 <details>
