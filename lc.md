@@ -25,8 +25,36 @@
        recursion  
           api
           练习3
+       binary search
+          api
+          练习3
+       DP
+          api
+          练习3
+       DFS
+          api
+          练习3
+       BFS
+          api
+          练习3
+       Stack
+          api
+          练习3
+       Graph
+          api
+          练习3
+       回溯
+          api
+          练习3
+       Union find
+          api
+          练习3
+       Trie
+          api
+          练习3
        more...按公司，按记忆  
        材料 班 书
+       难度：早晚、运气
 
 
 </details>
