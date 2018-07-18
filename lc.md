@@ -63,6 +63,7 @@
     1. 几率大：
         1.1 狂招人
             gg cloud
+            facebook
             oracle cloud
             uber rider? freight?
             upgrade急速扩张（http://www.1point3acres.com/bbs/thread-433880-1-1.html）
