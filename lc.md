@@ -7,19 +7,20 @@
 <details>
   <summary>lc</summary>
 
+       (all leetcode good tags included)
        hash api: 注意进出的重复
           api
           练习3
        linkedlist
           api
           练习3
-       ？array
+       array
           api
           练习3
-       ？tree  
+       tree  
           api
           练习3
-       ？recursion  
+       recursion  
           api
           练习3
        binary search
@@ -28,10 +29,10 @@
        DP
           api
           练习3
-       ？DFS
+       DFS
           api
           练习3
-       ？BFS
+       BFS
           api
           练习3
        Stack
