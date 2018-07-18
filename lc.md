@@ -39,13 +39,14 @@
             gg cloud
             oracle cloud
             uber rider? freight?
+            upgrade急速扩张（http://www.1point3acres.com/bbs/thread-433880-1-1.html）
         1.2 面试简单
             ibm
             amazon?
             yahoo?
     2. 大公司
     3. 小公司
-    4. 价值
+    4. 价值排序
           GG
           大公司
           Hot startup
