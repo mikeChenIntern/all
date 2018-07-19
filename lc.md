@@ -63,7 +63,7 @@
     1. 几率大：
         1.1 狂招人
             gg cloud
-            facebook
+            facebook(一个同校竞争就保证有面试。一锤子买卖，必进)
             oracle cloud
             uber rider? freight?
             upgrade急速扩张（http://www.1point3acres.com/bbs/thread-433880-1-1.html）
