@@ -59,6 +59,8 @@
 
 <details>
   <summary>招人公司</summary>
+  
+  100个面试 http://www.1point3acres.com/bbs/home.php?mod=space&uid=101110&do=thread&view=me&type=thread&order=dateline&from=space&page=5
 
     1. 几率大：
         1.1 狂招人
