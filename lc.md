@@ -130,6 +130,13 @@ to do/can do:
  - 清理房间有助于效率，规柜整整的给我感受恰如这个markdown. 一个问题是开始计较，突然看着地上的小碎纸会不爽，像留学到现在一样开始计算不停追求局部最优
  - 构建不要慌，笨办法，不是自上向下的理解。
 
+<details>
+<summary> 整个大计划 大表</summary>
+  <p>
+  1. 回国 ms, amazon, ...再好回来L1
+  </p>
+</details>
+
 
 <details>
 <summary> __ddd__</summary>
