@@ -137,7 +137,7 @@ to do/can do:
   </p>
 </details>
 投资：（分表）
-广州？韩国人 伊朗人 都是。
+广州？韩国人（machine生意） 伊朗人（珠宝进口到伊朗） 都是。
 
 <details>
 <summary> __ddd__</summary>
