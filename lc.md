@@ -7,6 +7,10 @@
 <details>
   <summary>lc</summary>
 
+       实验：
+          举例
+          先全部想一遍，再集中实现
+          一遍一遍，好懂的实现、checkNull、语法问题get put等
        (all leetcode good tags included)
        hash api: 注意进出的重复
           api
