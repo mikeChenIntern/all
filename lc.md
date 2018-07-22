@@ -157,12 +157,26 @@ to do/can do:
 广州？韩国人（machine生意） 伊朗人（珠宝进口到伊朗） 都是。
 
 <details>
-<summary> __ddd__</summary>
-  <p>
-  1. hi  
-  2. ho<mark>sss</mark>  
-  3. <mark> mi  </mark>  
-  4. dsadas
-  5. fsdfsd
-  </p>
+  <summary> 快速菜单（最好学10个快手菜）</summary>
+  
+      - 小：
+          - 泡面加蛋
+          - 炒饭
+          - 饭加肉酱
+          - 蛋花
+          - 蒸包子、饺子
+          - 蒸煮饺子、蒸饺子
+      - 大：
+          - 粉蒸肉
+</details>
+
+<details>
+  <summary> title </summary>
+    <p>
+        1. hi  
+        2. ho<mark>sss</mark>  
+        3. <mark> mi  </mark>  
+        4. dsadas
+        5. fsdfsd
+    </p>
 </details>
