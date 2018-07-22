@@ -157,7 +157,7 @@ to do/can do:
 广州？韩国人（machine生意） 伊朗人（珠宝进口到伊朗） 都是。
 
 <details>
-  <summary> 快速菜单（最好学10个快手菜）</summary>
+  <summary> 快速菜单（最好学10个快手菜）两顿、每顿两碗饭必不可少不然头晕；要吃热的吃好的不然吃了还是饿</summary>
   
       - 小：
           - 泡面加蛋
@@ -171,12 +171,11 @@ to do/can do:
 </details>
 
 <details>
-  <summary> title </summary>
-    <p>
+  <summary> example </summary>
+
         1. hi  
         2. ho<mark>sss</mark>  
         3. <mark> mi  </mark>  
         4. dsadas
         5. fsdfsd
-    </p>
 </details>
