@@ -157,7 +157,7 @@ to do/can do:
 广州？韩国人（machine生意） 伊朗人（珠宝进口到伊朗） 都是。
 
 <details>
-  <summary> 快速菜单（最好学10个快手菜）两顿、每顿两碗饭必不可少不然头晕；要吃热的吃好的不然吃了还是饿</summary>
+  <summary> 快速菜单,必须认真对待吃饭了（最好学10个快手菜）两顿、每顿两碗饭必不可少不然头晕；要吃热的吃好的不然吃了还是饿</summary>
   
       - 小：
           - 泡面加蛋
@@ -168,6 +168,12 @@ to do/can do:
           - 蒸煮饺子、蒸饺子
       - 大：
           - 粉蒸肉
+</details>
+
+<details>
+  <summary> G </summary>
+
+        1. 思考你要仔细，决定要坚决
 </details>
 
 <details>
