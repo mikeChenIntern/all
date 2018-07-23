@@ -13,23 +13,23 @@
           一遍一遍，好懂的实现、checkNull、语法问题get put等
           有的用API，有的用意更纯碎（比如二分搜索）
        (all leetcode good tags included)
-       hash 
+       hash（两棵树）
           api
               注意进出的重复
           练习3
-       linkedlist
+       linkedlist（后门）
           api
           练习3
-       array
+       array（红绿灯）
           api
           练习3
-       →tree  
+       →tree（路）  
           api
           练习3
-       →recursion  
+       →recursion（芯片公司大楼）  
           api
           练习3
-       binary search
+       binary search（草地）
           api
               大api是模板。主旨是缩小范围、或者丢弃不要的。二者总结合一，但现在以前者为主，不然游移不定。混沌缩小或者去除。
               找出【标准】，能定夺的那一步（即决定end=mid/start=mid的那一步）。最基本的有序数列自带标准。（由旋转数组那一题导出，那题标准是“一个有序片段”）。一般都直觉解决，这一点在找不到线索的时候用。
@@ -39,28 +39,28 @@
           todo:
               高级境界
           练习3
-       DP
+       DP（红石头）
           api
           练习3
-       →DFS
+       →DFS（10栋大门）
           api
           练习3
-       →BFS
+       →BFS（10栋大门）
           api
           练习3
-       Stack
+       Stack（楼梯）
           api
           练习3
-       Graph
+       Graph（茶水间）
           api
           练习3
-       回溯
+       回溯（工位）
           api
           练习3
-       Union find
+       Union find（工会）
           api
           练习3
-       Trie
+       Trie（名牌）
           api
           练习3
        
