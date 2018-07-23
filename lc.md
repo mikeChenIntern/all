@@ -14,7 +14,8 @@
           有的用API，有的用意更纯碎（比如二分搜索）
        (all leetcode good tags included)
        hash 
-          api: 注意进出的重复
+          api
+              注意进出的重复
           练习3
        linkedlist
           api
