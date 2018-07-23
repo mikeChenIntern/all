@@ -13,8 +13,8 @@
           一遍一遍，好懂的实现、checkNull、语法问题get put等
           有的用API，有的用意更纯碎（比如二分搜索）
        (all leetcode good tags included)
-       hash api: 注意进出的重复
-          api
+       hash 
+          api: 注意进出的重复
           练习3
        linkedlist
           api
