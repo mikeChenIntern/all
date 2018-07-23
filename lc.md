@@ -62,6 +62,9 @@
        Trie
           api
           练习3
+       
+       记忆，内部消化
+       
        more...按公司，按记忆  
        材料 班 书
        难度：早晚、运气
@@ -85,6 +88,7 @@
             ibm
             amazon?
             yahoo?
+            blackrock“bar 不高”(http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=435102#lastpost)
     2. 大公司
     3. 小公司
     4. 价值排序
