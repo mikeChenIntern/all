@@ -79,13 +79,14 @@
   100个面试 http://www.1point3acres.com/bbs/home.php?mod=space&uid=101110&do=thread&view=me&type=thread&order=dateline&from=space&page=5
 
     1. 几率大：
-        1.1 狂招人
+        1.1 狂招人（因为我有这个大实习，面试可以拿个遍，所以大量招人不是重点，重点是会简单（或者甚至找到大量面过这个人的帖子））
             gg cloud
             facebook(一个同校竞争就保证有面试。一锤子买卖，必进)
             oracle cloud
             uber rider? freight?
             upgrade急速扩张（http://www.1point3acres.com/bbs/thread-433880-1-1.html）
             oracle还是在大量招人，不要忽略了（http://www.1point3acres.com/bbs/thread-172476-1-1.html 很多人面试的）
+            Dropbox（公司在扩建，机会多多）（http://www.1point3acres.com/bbs/thread-434712-1-1.html）
         1.2 面试简单
             ibm
             amazon?
