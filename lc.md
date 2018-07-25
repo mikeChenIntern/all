@@ -85,6 +85,7 @@
             oracle cloud
             uber rider? freight?
             upgrade急速扩张（http://www.1point3acres.com/bbs/thread-433880-1-1.html）
+            oracle还是在大量招人，不要忽略了（http://www.1point3acres.com/bbs/thread-172476-1-1.html 很多人面试的）
         1.2 面试简单
             ibm
             amazon?
@@ -120,10 +121,10 @@
         
         
             - 加热（高于体温，毯子、保暖不够）
-                - 公司
-                    - 晒太阳
                 - 家里
                     - 电热毯
+                -【带热水袋出门】（出门热水很少，但充电哪都有。留在家用处不大）
+                
                     
         - 观察：
             - 泡脚加烫大腿，即使不疼大脑也满身汗。身体虚是根本原因？
