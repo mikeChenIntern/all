@@ -88,7 +88,7 @@
             oracle还是在大量招人，不要忽略了,之前也说他家今年大量招（http://www.1point3acres.com/bbs/thread-172476-1-1.html 很多人面试的）
             Dropbox（公司在扩建，机会多多）（http://www.1point3acres.com/bbs/thread-434712-1-1.html）
         1.2 面试简单
-            ibm
+            ibm(学姐，分组面会更容易。招人最细是小组消息，这种有熟人其实最容易，如同appfolio.排个序)
             amazon?
             yahoo?
             blackrock“bar 不高”(http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=435102#lastpost)
