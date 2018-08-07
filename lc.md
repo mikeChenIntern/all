@@ -12,6 +12,8 @@
           先全部想一遍，再集中实现
           一遍一遍，好懂的实现、checkNull、语法问题get put等
           有的用API，有的用意更纯碎（比如二分搜索）
+          一鼓作气的focus
+          (重要)用法！看那个帖子
        (all leetcode good tags included)
        hash（两棵树）
           api
