@@ -45,6 +45,8 @@
           练习3
        →DFS（10栋大门）
           api
+          杂：
+              - 前中后序，简单记忆分别是copy, sorted, delete.理解是删文件和复制文件，转化为一维；本质是dependency
           练习3
        →BFS（10栋大门）
           api
