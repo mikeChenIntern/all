@@ -224,6 +224,15 @@ to do/can do:
 </details>
 
 <details>
+  <summary> 考虑帮olga要master project from oracle </summary>
+  
+    - 好处：熟悉，别的难度都不会很小所以我们可以省时间；也许能进一步巩固return
+    - 坏处：不能选别家了；无所谓 别人知道Mike名字；无所谓 别人知道我在oracle
+    - 进程：明天先提
+  
+</details>
+
+<details>
   <summary> example </summary>
 
         1. hi  
