@@ -4,6 +4,8 @@
 * 一张大表 长时间不会遗失
 * 看好的东西激发 不会碎片化
 
+- 面对（http://www.1point3acres.com/bbs/thread-334241-1-1.html）
+
 <details>
   <summary>lc</summary>
 
