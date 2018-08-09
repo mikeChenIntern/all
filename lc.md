@@ -245,6 +245,17 @@ to do/can do:
 </details>
 
 <details>
+  <summary> 资金 </summary>
+  
+    - TA除了工资还有什么？（http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=437318&page=1#pid4335640）
+    - 知乎Live
+    - TA RA
+    - PARTtime 系里邮件很多资源。有甲骨文经验 一定能进
+    - 校内打工
+  
+</details>
+
+<details>
   <summary> example </summary>
 
         1. hi  
