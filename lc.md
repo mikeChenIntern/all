@@ -99,6 +99,7 @@
             amazon?
             yahoo?
             blackrock“bar 不高”(http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=435102#lastpost)
+            亚马逊（开了！地里突然出来很多帖子）
     2. 大公司
     3. 小公司
     4. 价值排序
