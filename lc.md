@@ -18,6 +18,10 @@
           一鼓作气的focus
           (重要)用法！看那个帖子.现在api都清了，最重要的是用法。
           别忘了工具，Lintcode等
+       点：
+          要总结
+          不要题海
+          就那么几种 dfs...不是我列的那么多
        杂：
           有实习不代表什么 也许什么都找不到
        (all leetcode good tags included)
