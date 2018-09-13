@@ -6,6 +6,7 @@
 
 - 面对（http://www.1point3acres.com/bbs/thread-334241-1-1.html）
 - 重新安排 不方便的工具
+- 效率 高效不可持续且麻烦。高效 规整的一天 然后玩几天。
 
 <details>
   <summary>lc</summary>
@@ -18,6 +19,7 @@
           一鼓作气的focus
           (重要)用法！看那个帖子.现在api都清了，最重要的是用法。
           别忘了工具，Lintcode等
+          昨天帮忙做GG OA，都会，但可能因为模板背不会就挂了 要对各种模板的细节了解，而不是我想当然的人意合一。进步很快了 还是误打误撞成功的。实战 嗯 老师的教诲还是对 
        点：
           要总结
           不要题海
@@ -270,7 +272,7 @@ to do/can do:
 <details>
   <summary> 资金 </summary>
   
-    - TA除了工资还有什么？（http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=437318&page=1#pid4335640）
+    - TA除了工资还有什么？（http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=437318&page=1#pid4335640）就只有工资 十几块。还可以做ITS的。bite for bytes总是有？
     - 知乎Live
     - TA RA
     - PARTtime 系里邮件很多资源。有甲骨文经验 一定能进
